@@ -1,0 +1,12 @@
+{
+  "name": "DivaSBot",
+  "version": "0.0.1",
+  "description": "h",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
